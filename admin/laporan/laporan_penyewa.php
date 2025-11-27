@@ -266,4 +266,4 @@ function printReport() {
 }
 </script>
 
-<?php include '../../layouts/admin_footer.php'; ?>
+<?php include '../../layouts/admin_footer.php'; ?>  
